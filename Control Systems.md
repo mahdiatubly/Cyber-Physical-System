@@ -18,3 +18,8 @@ different system types like process control systems, distributed control systems
 - **Historian**: As the task executes, the results are recorded in a database called a historian.
 
 - Modbus/TCP | DNP3: application layer layer protocols that are used in industrial control systems (non-routable protocols but there are new routable versions of them). 
+
+- **(PPD-21)**: define 16 sectors that have critical ICS.
+
+- **Smart grid**: is a modernization of energy transmission, distribution, and consumption systems. A smart grid improves upon legacy systems through the addition of monitoring,
+measurement, and automation.
