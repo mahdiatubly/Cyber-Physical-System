@@ -4,4 +4,4 @@ In the control system, there are 4 main parts:
   - Actuator: the device that is used to alter or adjust the system or the environment. 
   - Controller: the device that is used to control the change in the system.
 
-** Open-Loop System **: is a system with just a controller, and actuator with no sensor; it is a systemm without feedback.
+** Open-Loop System **: is a system with just a controller, and actuator with no sensor; it is a system without feedback.
