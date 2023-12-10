@@ -31,21 +31,20 @@ measurement, and automation.
 - **The Purdue Reference Model (PRM)**: defines five levels for industrial automation and information flow in a Computer Integrated Manufacturing (CIM) environment. Although not explicitly mentioned in the original model, Level 0 can be added to represent the physical process itself. Here's a breakdown of each level:
 
     - **Level 0: Physical Process**
-    Description: This level represents the physical machinery and equipment used in the manufacturing process. It includes things like sensors, actuators, and process equipment.
+    : This level represents the physical machinery and equipment used in the manufacturing process. It includes things like sensors, actuators, and process equipment.
     Components: Sensors, actuators, process equipment, materials, energy.
     
      - **Level 1: Field Level**
-    Description: The field level interfaces with the physical process and collects data from sensors. It also sends signals to actuators to control the process.
+    : The field level interfaces with the physical process and collects data from sensors. It also sends signals to actuators to control the process.
     Components: PLCs, Fieldbus networks, sensors, actuators.
     
     - **Level 2: Control Level**
-    Description: This level is responsible for controlling and monitoring the manufacturing process. It includes functions such as process control, quality control, and safety systems.
+    : This level is responsible for controlling and monitoring the manufacturing process. It includes functions such as process control, quality control, and safety systems.
     Components: DCS, PLCs, HMI (Human-Machine Interface) systems.
     
     - **Level 3: Operations Level**
-    Description: This level is responsible for managing the production process and scheduling tasks. It includes functions such as production planning, inventory control, and maintenance scheduling.
+    : This level is responsible for managing the production process and scheduling tasks. It includes functions such as production planning, inventory control, and maintenance scheduling.
     Components: MES (Manufacturing Execution System), ERP (Enterprise Resource Planning) system.
     
-    - **Level 4: Enterprise Level**
-    Description: This level is responsible for managing the entire manufacturing enterprise. It includes functions such as order processing, financial management, and customer relationship management.
+    - **Level 4: Enterprise Level**: This level is responsible for managing the entire manufacturing enterprise. It includes functions such as order processing, financial management, and customer relationship management.
     Components: ERP system, CRM (Customer Relationship Management) system.
