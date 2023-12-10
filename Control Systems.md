@@ -48,3 +48,5 @@ measurement, and automation.
     
     - **Level 4: Enterprise Level**: This level is responsible for managing the entire manufacturing enterprise. It includes functions such as order processing, financial management, and customer relationship management.
     Components: ERP system, CRM (Customer Relationship Management) system.
+
+- Night Dragon and Stuxnet are examples of the weaponized malware that is used to attack ICS.
