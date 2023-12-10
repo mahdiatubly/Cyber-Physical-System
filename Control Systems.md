@@ -24,4 +24,28 @@ different system types like process control systems, distributed control systems
 - **Smart grid**: is a modernization of energy transmission, distribution, and consumption systems. A smart grid improves upon legacy systems through the addition of monitoring,
 measurement, and automation.
 
-- 
+- **Programmable Logic Controller (PLC)**: is a ruggedized computer used for industrial automation. It is designed to handle the harsh conditions of industrial environments, such as extreme temperatures, vibrations, and dust. PLCs are used to control a wide variety of machines and processes.
+
+- **Human-Machine Interface (HMI)**: is the user interface or dashboard that connects a person to a machine, system, or device. It allows the user to monitor and control the machine or system, and to input data or instructions.
+
+- **The Purdue Reference Model (PRM)**: defines five levels for industrial automation and information flow in a Computer Integrated Manufacturing (CIM) environment. Although not explicitly mentioned in the original model, Level 0 can be added to represent the physical process itself. Here's a breakdown of each level:
+
+    - **Level 0: Physical Process**
+    Description: This level represents the physical machinery and equipment used in the manufacturing process. It includes things like sensors, actuators, and process equipment.
+    Components: Sensors, actuators, process equipment, materials, energy.
+    
+     - **Level 1: Field Level**
+    Description: The field level interfaces with the physical process and collects data from sensors. It also sends signals to actuators to control the process.
+    Components: PLCs, Fieldbus networks, sensors, actuators.
+    
+    - **Level 2: Control Level**
+    Description: This level is responsible for controlling and monitoring the manufacturing process. It includes functions such as process control, quality control, and safety systems.
+    Components: DCS, PLCs, HMI (Human-Machine Interface) systems.
+    
+    - **Level 3: Operations Level**
+    Description: This level is responsible for managing the production process and scheduling tasks. It includes functions such as production planning, inventory control, and maintenance scheduling.
+    Components: MES (Manufacturing Execution System), ERP (Enterprise Resource Planning) system.
+    
+    - **Level 4: Enterprise Level**
+    Description: This level is responsible for managing the entire manufacturing enterprise. It includes functions such as order processing, financial management, and customer relationship management.
+    Components: ERP system, CRM (Customer Relationship Management) system.
